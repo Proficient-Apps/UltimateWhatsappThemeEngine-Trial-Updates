@@ -3,12 +3,12 @@
     <appName>Ultimate Whatsapp Theme Engine</appName>
     <appDescription>Theme Engine Updater</appDescription>
     <packageName>in.proficientapps.uwte.trial</packageName>
-    <versionCode>1</versionCode>
-    <versionName>1.0</versionName>
+    <versionCode>2</versionCode>
+    <versionName>1.1</versionName>
     <forceUpdate>false</forceUpdate>
     <autoUpdate>false</autoUpdate>
-    <apkUrl>https://raw.githubusercontent.com/Proficient-Apps/UltimateWhatsappThemeEngine-Trial-Updates/master/apks/UWTE-Trial-release.apk</apkUrl>
+    <apkUrl>https://raw.githubusercontent.com/Proficient-Apps/UltimateWhatsappThemeEngine-Trial-Updates/master/apks/UWTE-Trial-v1_1.apk</apkUrl>
     <updateTips>
-        <default>Change-log:\n\nInitial Version.</default>
+        <default>Change-log:\n\nVersion 1.1.\nAdded Auto Update Check on App startup.\nUpdated App Settings.\nFixed Bubbles Msg. In not themeing in Own Creativity Theme.\nFixed list divider not getting themed.\nFixed Change-log not showing inside Settings.\nRemoved useless resources.\nRemoved Full Page Ad showing on exiting App Settings.</default>
     </updateTips>
 </updateInfo>
