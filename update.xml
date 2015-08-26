@@ -3,8 +3,8 @@
     <appName>Ultimate Whatsapp Theme Engine</appName>
     <appDescription>Theme Engine Updater</appDescription>
     <packageName>in.proficientapps.uwte.trial</packageName>
-    <versionCode>19</versionCode>
-    <versionName>4.0.public.beta.2</versionName>
+    <versionCode>20</versionCode>
+    <versionName>4.0</versionName>
     <forceUpdate>false</forceUpdate>
     <autoUpdate>false</autoUpdate>
     <apkUrl>https://raw.githubusercontent.com/Proficient-Apps/UltimateWhatsappThemeEngine-Trial-Updates/master/apks/UWTE-Trial-v4.0.apk</apkUrl>
