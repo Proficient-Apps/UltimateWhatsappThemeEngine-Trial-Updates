@@ -7,16 +7,28 @@
     <versionName>4.1</versionName>
     <forceUpdate>false</forceUpdate>
     <autoUpdate>false</autoUpdate>
-    <apkUrl>https://raw.githubusercontent.com/Proficient-Apps/UltimateWhatsappThemeEngine-Trial-Updates/master/apks/UWTE-Pro-v4.1.apk</apkUrl>
+    <apkUrl>https://raw.githubusercontent.com/Proficient-Apps/UltimateWhatsappThemeEngine-Trial-Updates/master/apks/UWTE-Trial-v5.0.apk</apkUrl>
     <updateTips>
-        <default>v4.1 Change Log:
+        <default>v5.0 Change Log:
+        
 Added:
-♥ 3 new Bubble themes [6 taking custom colour options].
-♥ 3 new Message Indicator themes [4 in total taking custom colour option].
-♥ Option to search for themes in Theme Store.
+Support for Android 6.0/6.0.1 Marshmallow.
+Option to activate or deactivate every single mod. Now activate only those mods that you want and deactivate others.
+Option to add Contact Avatar on the left of each text message bubble. [Does not works in Group messages yet] [Experimental Feature]
+Option to activate long press to copy message on text message bubbles.
+Option to apply Gradient styles at several places.
+Option to apply Colour on List items in Conversations, Call logs and Contacts list. [Along with support for Gradient style]
+Option to add refresh button in Theme Store. [Active by default, to change visit Home>Menu>Settings]
 
 Updated:
-♥ Upload theme activity. Now Android version and Module version will be automatically filled.
-♥ Module App UI Elements to better follow Android Lollipop Material UI Guidelines.</default>
+Emoji picker view mods to support changes in new Whatsapp version.
+Theme Store - Floating action buttons to publish your theme, refresh store.
+Themes Store name to Theme Store.
+
+Fixed:
+Message State Indicator Styles Sizes.
+
+Removed:
+Option to choose Emoji picker icons colour.</default>
     </updateTips>
 </updateInfo>
