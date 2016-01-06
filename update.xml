@@ -3,6 +3,7 @@
     <appName>Ultimate Whatsapp Theme Engine</appName>
     <appDescription>Theme Engine Updater</appDescription>
     <packageName>in.proficientapps.uwte.trial</packageName>
+<<<<<<< HEAD
     <versionCode>23</versionCode>
     <versionName>5.1</versionName>
     <forceUpdate>false</forceUpdate>
@@ -15,5 +16,34 @@
 		Fixed/Updated:
 		1. Avatar placement on left bubble.
 		2. Disabled Gradient settings by default.</default>
+=======
+    <versionCode>22</versionCode>
+    <versionName>5.0</versionName>
+    <forceUpdate>false</forceUpdate>
+    <autoUpdate>false</autoUpdate>
+    <apkUrl>https://raw.githubusercontent.com/Proficient-Apps/UltimateWhatsappThemeEngine-Trial-Updates/master/apks/UWTE-Trial-v5.0.apk</apkUrl>
+    <updateTips>
+        <default>v5.0 Change Log:
+        
+Added:
+Support for Android 6.0/6.0.1 Marshmallow.
+Option to activate or deactivate every single mod. Now activate only those mods that you want and deactivate others.
+Option to add Contact Avatar on the left of each text message bubble. [Does not works in Group messages yet] [Experimental Feature]
+Option to activate long press to copy message on text message bubbles.
+Option to apply Gradient styles at several places.
+Option to apply Colour on List items in Conversations, Call logs and Contacts list. [Along with support for Gradient style]
+Option to add refresh button in Theme Store. [Active by default, to change visit Home>Menu>Settings]
+
+Updated:
+Emoji picker view mods to support changes in new Whatsapp version.
+Theme Store - Floating action buttons to publish your theme, refresh store.
+Themes Store name to Theme Store.
+
+Fixed:
+Message State Indicator Styles Sizes.
+
+Removed:
+Option to choose Emoji picker icons colour.</default>
+>>>>>>> origin/master
     </updateTips>
 </updateInfo>
