@@ -3,20 +3,17 @@
     <appName>Ultimate Whatsapp Theme Engine</appName>
     <appDescription>Theme Engine Updater</appDescription>
     <packageName>in.proficientapps.uwte.trial</packageName>
-    <versionCode>21</versionCode>
-    <versionName>4.1</versionName>
+    <versionCode>23</versionCode>
+    <versionName>5.1</versionName>
     <forceUpdate>false</forceUpdate>
     <autoUpdate>false</autoUpdate>
-    <apkUrl>https://raw.githubusercontent.com/Proficient-Apps/UltimateWhatsappThemeEngine-Trial-Updates/master/apks/UWTE-Pro-v4.1.apk</apkUrl>
+    <apkUrl>https://raw.githubusercontent.com/Proficient-Apps/UltimateWhatsappThemeEngine-Trial-Updates/master/apks/UWTE-Pro-v5.1.apk</apkUrl>
     <updateTips>
-        <default>v4.1 Change Log:
-Added:
-♥ 3 new Bubble themes [6 taking custom colour options].
-♥ 3 new Message Indicator themes [4 in total taking custom colour option].
-♥ Option to search for themes in Theme Store.
-
-Updated:
-♥ Upload theme activity. Now Android version and Module version will be automatically filled.
-♥ Module App UI Elements to better follow Android Lollipop Material UI Guidelines.</default>
+        <default>v5.1 Change Log:
+		Added:
+		1. Option to set Image as App BG. 
+		Fixed/Updated:
+		1. Avatar placement on left bubble.
+		2. Disabled Gradient settings by default.</default>
     </updateTips>
 </updateInfo>
