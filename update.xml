@@ -3,17 +3,13 @@
     <appName>Ultimate Whatsapp Theme Engine</appName>
     <appDescription>Theme Engine Updater</appDescription>
     <packageName>in.proficientapps.uwte.trial</packageName>
-    <versionCode>23</versionCode>
-    <versionName>5.1</versionName>
+    <versionCode>24</versionCode>
+    <versionName>5.1.1</versionName>
     <forceUpdate>false</forceUpdate>
     <autoUpdate>false</autoUpdate>
-    <apkUrl>https://raw.githubusercontent.com/Proficient-Apps/UltimateWhatsappThemeEngine-Trial-Updates/master/apks/UWTE-Pro-v5.1.apk</apkUrl>
+    <apkUrl>https://raw.githubusercontent.com/Proficient-Apps/UltimateWhatsappThemeEngine-Trial-Updates/master/apks/UWTE-Pro-v5.1.1.apk</apkUrl>
     <updateTips>
-        <default>v5.1 Change Log:
-		Added:
-		1. Option to set Image as App BG. 
-		Fixed/Updated:
-		1. Avatar placement on left bubble.
-		2. Disabled Gradient settings by default.</default>
+        <default>v5.1.1 Change Log:
+		Users on Android 6.0/6.0.1 Marshmallow will be asked to grant Contacts and Storage Permissions. These permissions are required for Theme Store to work. You won't be able to download and apply themes until you grant these two updates.</default>
     </updateTips>
 </updateInfo>
