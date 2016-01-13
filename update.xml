@@ -3,13 +3,22 @@
     <appName>Ultimate Whatsapp Theme Engine</appName>
     <appDescription>Theme Engine Updater</appDescription>
     <packageName>in.proficientapps.uwte.trial</packageName>
-    <versionCode>24</versionCode>
-    <versionName>5.1.1</versionName>
+    <versionCode>25</versionCode>
+    <versionName>5.2</versionName>
     <forceUpdate>false</forceUpdate>
     <autoUpdate>false</autoUpdate>
-    <apkUrl>https://raw.githubusercontent.com/Proficient-Apps/UltimateWhatsappThemeEngine-Trial-Updates/master/apks/UWTE-Pro-v5.1.1.apk</apkUrl>
+    <apkUrl>https://raw.githubusercontent.com/Proficient-Apps/UltimateWhatsappThemeEngine-Trial-Updates/master/apks/UWTE-Pro-v5.2.apk</apkUrl>
     <updateTips>
-        <default>v5.1.1 Change Log:
-		Users on Android 6.0/6.0.1 Marshmallow will be asked to grant Contacts and Storage Permissions. These permissions are required for Theme Store to work. You won't be able to download and apply themes until you grant these two updates.</default>
+        <default>v5.2 Change Log:
+		Added:
+Option to set own Avatar in Text messages (Have to choose manually in UWTE).
+Option to add New Conversation FAB(Floating Action Button) in Chats Tab.
+
+Updated:
+App BG Image chooser to use built in gallery instead of a custom file manager.
+App BG to support Starred Messages activity.
+
+Fixed:
+Contact avatar size. Now it should not look too big or too small.</default>
     </updateTips>
 </updateInfo>
