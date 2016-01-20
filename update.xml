@@ -3,22 +3,18 @@
     <appName>Ultimate Whatsapp Theme Engine</appName>
     <appDescription>Theme Engine Updater</appDescription>
     <packageName>in.proficientapps.uwte.trial</packageName>
-    <versionCode>25</versionCode>
-    <versionName>5.2</versionName>
+    <versionCode>26</versionCode>
+    <versionName>5.3</versionName>
     <forceUpdate>false</forceUpdate>
     <autoUpdate>false</autoUpdate>
     <apkUrl>https://raw.githubusercontent.com/Proficient-Apps/UltimateWhatsappThemeEngine-Trial-Updates/master/apks/UWTE-Pro-v5.2.apk</apkUrl>
     <updateTips>
-        <default>v5.2 Change Log:
-		Added:
-Option to set own Avatar in Text messages (Have to choose manually in UWTE).
-Option to add New Conversation FAB(Floating Action Button) in Chats Tab.
-
-Updated:
-App BG Image chooser to use built in gallery instead of a custom file manager.
-App BG to support Starred Messages activity.
-
-Fixed:
-Contact avatar size. Now it should not look too big or too small.</default>
+        <default>v5.3 Change Log:
+		1. Added Attach Popup Icon Themes
+2. Added New Message FAB Icon themes
+3. Added Option to Choose new message FAB size.
+4. Fixed New message FAB BG getting transparent when BG colour is active but Gradient is disabled.
+5. Fixed Messages getting hidden under Message Entry field[Still happens but rarely].
+</default>
     </updateTips>
 </updateInfo>
