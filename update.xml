@@ -3,18 +3,23 @@
     <appName>Ultimate Whatsapp Theme Engine</appName>
     <appDescription>Theme Engine Updater</appDescription>
     <packageName>in.proficientapps.uwte.trial</packageName>
-    <versionCode>26</versionCode>
-    <versionName>5.3</versionName>
+    <versionCode>27</versionCode>
+    <versionName>5.4</versionName>
     <forceUpdate>false</forceUpdate>
     <autoUpdate>false</autoUpdate>
-    <apkUrl>https://raw.githubusercontent.com/Proficient-Apps/UltimateWhatsappThemeEngine-Trial-Updates/master/apks/UWTE-Pro-v5.3.apk</apkUrl>
+    <apkUrl>https://raw.githubusercontent.com/Proficient-Apps/UltimateWhatsappThemeEngine-Trial-Updates/master/apks/UWTE-Pro-v5.4.apk</apkUrl>
     <updateTips>
-        <default>v5.3 Change Log:
-		1. Added Attach Popup Icon Themes
-2. Added New Message FAB Icon themes
-3. Added Option to Choose new message FAB size.
-4. Fixed New message FAB BG getting transparent when BG colour is active but Gradient is disabled.
-5. Fixed Messages getting hidden under Message Entry field[Still happens but rarely].
+        <default>v5.4 Change Log:
+		Added:
+1. Option to change WhatsApp Icon.
+2. Avatars added to Image Bubbles [Both sent and received] and Video Bubbles [Only received].
+
+Fixed:
+1. Fixed Message Time Stamp touching bubble's bottom edge in Sent Text Messages.
+2. Fixed Web Link Preview BG getting out of bubble when Own Avatar is active.
+3. Fixed few Own avatars coming smaller than regular size [Fix only Available for Android 4.2+ users. Sorry Android 4.1 users we still don't have a fix for you all.]
+4. [Probably] Fixed Messages getting hidden under Entry Field when Avatar options are active. [All current tests passed. Didn't faced the issue even once. Yet it will be better to test more.]
+5. Fixed Text message getting copied even when long pressing out side of bubble.
 </default>
     </updateTips>
 </updateInfo>
