@@ -7,19 +7,14 @@
     <versionName>5.4</versionName>
     <forceUpdate>false</forceUpdate>
     <autoUpdate>false</autoUpdate>
-    <apkUrl>https://raw.githubusercontent.com/Proficient-Apps/UltimateWhatsappThemeEngine-Trial-Updates/master/apks/UWTE-Pro-v5.4.apk</apkUrl>
+    <apkUrl>https://raw.githubusercontent.com/Proficient-Apps/UltimateWhatsappThemeEngine-Trial-Updates/master/apks/UWTE-Pro-v5.4.1.apk</apkUrl>
     <updateTips>
-        <default>v5.4 Change Log:
-		Added:
-1. Option to change WhatsApp Icon.
-2. Avatars added to Image Bubbles [Both sent and received] and Video Bubbles [Only received].
-
-Fixed:
-1. Fixed Message Time Stamp touching bubble's bottom edge in Sent Text Messages.
-2. Fixed Web Link Preview BG getting out of bubble when Own Avatar is active.
-3. Fixed few Own avatars coming smaller than regular size [Fix only Available for Android 4.2+ users. Sorry Android 4.1 users we still don't have a fix for you all.]
-4. [Probably] Fixed Messages getting hidden under Entry Field when Avatar options are active. [All current tests passed. Didn't faced the issue even once. Yet it will be better to test more.]
-5. Fixed Text message getting copied even when long pressing out side of bubble.
+        <default>v5.4.1 Change Log:
+        ** Fixed:
+1. Views overlapping each other and Text showing in Right-To-Left format in Sent message bubbles while Own Avatar mod is active.
+** Removed:
+1. Unused Permissions.
+2. Parse Push Message Service related library files, Permissions, source files.
 </default>
     </updateTips>
 </updateInfo>
