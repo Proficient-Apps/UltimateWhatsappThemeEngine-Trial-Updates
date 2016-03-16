@@ -9,12 +9,8 @@
     <autoUpdate>false</autoUpdate>
     <apkUrl>https://raw.githubusercontent.com/Proficient-Apps/UltimateWhatsappThemeEngine-Trial-Updates/master/apks/UWTE-Pro-v5.4.1.apk</apkUrl>
     <updateTips>
-        <default>v5.4.1 Change Log:
-        ** Fixed:
-1. Views overlapping each other and Text showing in Right-To-Left format in Sent message bubbles while Own Avatar mod is active.
-** Removed:
-1. Unused Permissions.
-2. Parse Push Message Service related library files, Permissions, source files.
+        <default>v5.4.2 Change Log:
+        Updated to support latest Beta builds...
 </default>
     </updateTips>
 </updateInfo>
