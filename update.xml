@@ -11,15 +11,17 @@
     <updateTips>
         <default>v5.4.2.4 Change Log[26-06-2016]:
 Added:
-Hindi translation for App Settings.
-This is for testing purpose before final release with Translations.
-Support for WhatsApp Version 2.16.139 Beta
+1. Hindi translation for App Settings.
+    ->This is for testing purpose before final release with Translations.
+2. Support for WhatsApp Version 2.16.139 Beta
+
 Fixed:
-Issues with Own Avatar Mod.
-Issues with Contact Avatar Mod.
-Long press to copy text.
+1. Issues with Own Avatar Mod.
+2. Issues with Contact Avatar Mod.
+3. Long press to copy text.
+
 Updated:
-String Resources for upcoming support for multiple languages for in-app options.
+1. String Resources for upcoming support for multiple languages for in-app options.
 </default>
     </updateTips>
 </updateInfo>
