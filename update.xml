@@ -3,15 +3,23 @@
     <appName>Ultimate Whatsapp Theme Engine</appName>
     <appDescription>Theme Engine Updater</appDescription>
     <packageName>in.proficientapps.uwte.trial</packageName>
-    <versionCode>30</versionCode>
-    <versionName>5.4.2.1</versionName>
+    <versionCode>33</versionCode>
+    <versionName>5.4.2.4</versionName>
     <forceUpdate>false</forceUpdate>
     <autoUpdate>false</autoUpdate>
-    <apkUrl>https://raw.githubusercontent.com/Proficient-Apps/UltimateWhatsappThemeEngine-Trial-Updates/master/apks/UWTE-Pro-v5.4.2.1.apk</apkUrl>
+    <apkUrl>https://github.com/Proficient-Apps/UltimateWhatsappThemeEngine-Trial-Updates/raw/master/apks/UWTE-Pro-v5.4.2.4.apk</apkUrl>
     <updateTips>
-        <default>v5.4.2.1 Change Log:
-        Updated to support WhatsApp Version 2.12.539+
-        Updated several String resources for supporting Multiple languages for in-app options.
+        <default>v5.4.2.4 Change Log[26-06-2016]:
+Added:
+Hindi translation for App Settings.
+This is for testing purpose before final release with Translations.
+Support for WhatsApp Version 2.16.139 Beta
+Fixed:
+Issues with Own Avatar Mod.
+Issues with Contact Avatar Mod.
+Long press to copy text.
+Updated:
+String Resources for upcoming support for multiple languages for in-app options.
 </default>
     </updateTips>
 </updateInfo>
